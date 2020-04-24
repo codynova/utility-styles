@@ -1,11 +1,9 @@
 {
   "name": "utility-styles",
   "version": "0.0.1",
-  "description": "Utility-first SCSS framework",
+  "description": "Utility-first SCSS framework created with tsscss",
   "main": "lib/index.scss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codynova/utility-styles.git"
@@ -15,5 +13,9 @@
   "bugs": {
     "url": "https://github.com/codynova/utility-styles/issues"
   },
-  "homepage": "https://github.com/codynova/utility-styles#readme"
+  "homepage": "https://github.com/codynova/utility-styles#readme",
+  "devDependencies": {
+    "esnext-build": "0.0.2",
+    "tsscss": "0.0.1"
+  }
 }
