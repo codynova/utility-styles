@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/codynova/utility-styles#readme",
   "devDependencies": {
-    "esnext-build": "0.0.2",
+    "esnext-build": "0.0.4",
     "tsscss": "0.0.1"
   }
 }
